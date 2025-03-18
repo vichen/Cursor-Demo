@@ -1,5 +1,3 @@
-import { Separator } from '@/components/ui/separator'
-
 export default function Footer() {
   const currentYear = new Date().getFullYear()
 
